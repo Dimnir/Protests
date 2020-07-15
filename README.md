@@ -22,4 +22,8 @@ Information on used variables.
  In this notebook we see the relationship between the size of a protest and its success. <br />
  Then we compare the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
 
+#### - `ProtestSuccessPrediction.ipynb` <br />
+__Main objective:__ Build a model to predict a successful protest. <br />
+In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
+Using logistic regression, predicting the success of a protest, based on violence and size greater than 3% of pop. <br />
 
