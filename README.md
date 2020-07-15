@@ -14,7 +14,7 @@ Information on used variables.
 
 #### - `ViolenceAndSuccess.ipynb` <br />
  __Main objective :__ See whether violence contributes to the success rate of protests.  <br />
- In this notebook we see the relationship between violence, size of the protest and success.
+ In this notebook we see the relationship between violent / non-violent protests and their success.
  
 #### - `SizeAndSuccess.ipynb` <br />
  __Main objective :__ See whether larger protests are more likely to succeed.  <br />
