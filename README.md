@@ -17,7 +17,7 @@ Information on used variables.
  In this notebook we see the relationship between violence, size of the protest and success.
  
 #### - `SizeAndSuccess.ipynb` <br />
- __Main objective:__ See whether larger protests are more likely to succeed.  <br />
+ _Main objective:_ See whether larger protests are more likely to succeed.  <br />
  In this notebook we see the relationship between the size of a protest and its success. <br />
  Then we compare the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
 
