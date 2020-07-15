@@ -13,10 +13,12 @@ For info on used variables check [Variables.pdf](/Variables.pdf)
 
 ## Content
 
-#### `ViolenceAndSuccess.ipynb` <br />
+#### - `ViolenceAndSuccess.ipynb` <br />
  Main objective: See whether violence contributes to the success rate of protests.  <br />
- In this notebook we see the relations between violence, size of the protest and success.  <br />
+ In this notebook we see the relationship between violence, size of the protest and success.
  
-
+#### - `SizeAndSuccess.ipynb` <br />
+ Main objective: See whether larger protests are more likely to succeed.  <br />
+ In this notebook we see the relationship between success and number of participants as # of total population.
 
 
