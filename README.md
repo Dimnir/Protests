@@ -10,9 +10,7 @@ Datasets used:
   
 For info on used variables:
 
-```
 [Variables.pdf](/Variables.pdf)
-```
 
 
 
