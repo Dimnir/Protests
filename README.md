@@ -19,6 +19,8 @@ Information on used variables.
  
 #### - `SizeAndSuccess.ipynb` <br />
  Main objective: See whether larger protests are more likely to succeed.  <br />
- In this notebook we see the relationship between success and number of participants as # of total population.
+ In this notebook we see the relationship between the size of a protest and its success. <br />
+ We calculate the number of participants as # of total population and see what % is needed for a protest to succeed. <br />
+ Then we compare the the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
 
 
