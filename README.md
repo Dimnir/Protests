@@ -9,9 +9,9 @@ Datasets used:
   - ['World Population 1960-2018'](https://www.kaggle.com/imdevskp/world-population-19602018) - Population of each country, 1960-2018
   
 For info on used variables:
-
+'''
 [Variables.pdf](/Variables.pdf)
-
+'''
 
 
 
