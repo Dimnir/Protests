@@ -12,7 +12,8 @@ Datasets used:
 ####+ `Variables.pdf` <br /> 
 Information on used variables.
 
-####+ `ViolenceAndSuccess.ipynb` <br />
++ `ViolenceAndSuccess.ipynb` <br />
+==================
  __Main objective :__ See whether violence contributes to the success rate of protests.  <br />
  In this notebook we see the relationship between violent / non-violent protests and their success.
  
