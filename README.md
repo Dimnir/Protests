@@ -14,11 +14,11 @@ Datasets used:
 Information on used variables.
 
 #### - `ViolenceAndSuccess.ipynb` <br />
- Main objective: See whether violence contributes to the success rate of protests.  <br />
+ __Main objective:__ See whether violence contributes to the success rate of protests.  <br />
  In this notebook we see the relationship between violence, size of the protest and success.
  
 #### - `SizeAndSuccess.ipynb` <br />
- Main objective: See whether larger protests are more likely to succeed.  <br />
+ __Main objective:__ See whether larger protests are more likely to succeed.  <br />
  In this notebook we see the relationship between the size of a protest and its success. <br />
  We calculate the number of participants as # of total population and see what % is needed for a protest to succeed. <br />
  Then we compare the the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
