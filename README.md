@@ -27,4 +27,4 @@ Datasets used:
   Using logistic regression, predicting the success of a protest. <br />
 
 + #### `Presentation.pptx` <br />
-The projects presentation.
+  The projects presentation.
