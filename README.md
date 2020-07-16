@@ -26,3 +26,5 @@ Datasets used:
   In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
   Using logistic regression, predicting the success of a protest. <br />
 
++ #### `Presentation.pptx` <br />
+The projects presentation.
