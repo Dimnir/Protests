@@ -24,5 +24,5 @@ Datasets used:
 + #### `ProtestSuccessPrediction.ipynb` <br />
   __Main objective :__ Build a model to predict a successful protest. <br />
   In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
-  Using logistic regression, predicting the success of a protest, based on violence and size greater than 3% of pop. <br />
+  Using logistic regression, predicting the success of a protest. <br />
 
