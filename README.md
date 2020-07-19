@@ -9,23 +9,23 @@ Datasets used:
 
 ## Content
 
-00. #### `Presentation.pptx` <br />
-  The projects presentation. <br />
+__\00.__ #### `Presentation.pptx` <br />
+    The projects presentation. <br />
 
-01. #### `ViolenceAndSuccess.ipynb` <br />
-  __Main objective :__ See whether violence contributes to the success rate of protests.  <br />
-  In this notebook we see the relationship between violent / non-violent protests and their success. <br />
+__\01.__ #### `ViolenceAndSuccess.ipynb` <br />
+    __Main objective :__ See whether violence contributes to the success rate of protests.  <br />
+    In this notebook we see the relationship between violent / non-violent protests and their success. <br />
  
-02. #### `SizeAndSuccess.ipynb` <br />
-   __Main objective :__ See whether larger protests are more likely to succeed.  <br />
-   In this notebook we see the relationship between the size of a protest and its success. <br />
-  Comparing the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
+__\02.__ #### `SizeAndSuccess.ipynb` <br />
+    __Main objective :__ See whether larger protests are more likely to succeed.  <br />
+    In this notebook we see the relationship between the size of a protest and its success. <br />
+    Comparing the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
 
-03. #### `ProtestSuccessPrediction.ipynb` <br />
-  __Main objective :__ Build a model to predict a successful protest. <br />
-  In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
-  Using logistic regression, predicting the success of a protest. <br />
+__\03.__ #### `ProtestSuccessPrediction.ipynb` <br />
+    __Main objective :__ Build a model to predict a successful protest. <br />
+    In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
+    Using logistic regression, predicting the success of a protest. <br />
   
-04. #### `Variables.pdf` <br /> 
-  Information on used variables.
+__\04.__ #### `Variables.pdf` <br /> 
+    Information on used variables.
 
