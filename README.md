@@ -9,23 +9,23 @@ Datasets used:
 
 ## Content
 
-__00.__  `Presentation.pptx` <br />
+__00.  `Presentation.pptx`__ <br />
       The projects presentation. <br />
 
-__01.__  `ViolenceAndSuccess.ipynb` <br />
+__01.  `ViolenceAndSuccess.ipynb`__ <br />
       __Main objective :__ See whether violence contributes to the success rate of protests.  <br />
       In this notebook we see the relationship between violent / non-violent protests and their success. <br />
  
-__02.__  `SizeAndSuccess.ipynb` <br />
+__02.  `SizeAndSuccess.ipynb`__ <br />
       __Main objective :__ See whether larger protests are more likely to succeed.  <br />
       In this notebook we see the relationship between the size of a protest and its success. <br />
       Comparing the protests in the dataset with the George Floyd and BLM movement worldwide protests to see differences. <br />
 
-__03.__  `ProtestSuccessPrediction.ipynb` <br />
+__03.  `ProtestSuccessPrediction.ipynb`__ <br />
      __Main objective :__ Build a model to predict a successful protest. <br />
       In this notebook we see an attempt to build a model which predict if a protest was successful or failed. <br />
       Using logistic regression, predicting the success of a protest. <br />
   
-__04.__  `Variables.pdf` <br /> 
+__04.  `Variables.pdf`__ <br />
      Information on used variables.
 
