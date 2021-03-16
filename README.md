@@ -1,5 +1,5 @@
 ## General info
-This project is about analysing a dataset of protests and building simple model to predict a successful protest. <br />
+This project is about analyzing a dataset of protests and building simple model to predict a successful protest. <br />
 Using python (NumPy, Pandas, Matplotlib, sklearn ..), trying to find factors which make protests achieve their final goals.
 
 ## Description
